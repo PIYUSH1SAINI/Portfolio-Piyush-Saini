@@ -74,7 +74,8 @@ function Footer() {
   return (
     <footer className="md:mx-10 lg:mx-20 xl:mx-40 border-t border-border py-4 flex justify-between">
       <p className="text-sm text-muted-foreground flex items-center gap-2">
-        Made with <i className="hgi hgi-stroke hgi-heart-remove"></i> by Naman
+        Made with <i className="hgi hgi-stroke hgi-heart-remove"></i> by Piyush
+        Saini
       </p>
       <div className="flex gap-2 items-center text-muted-foreground justify-center text-sm">
         2025
